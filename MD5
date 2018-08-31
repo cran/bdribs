@@ -1,0 +1,9 @@
+0261aa6bbf5edd0bd8189560f1213959 *DESCRIPTION
+f8ecc2d42168db924ee2cc9f68c007dd *NAMESPACE
+ad5a1e3baf0e1a9de0b1d19ebd9f6977 *R/bdribs.R
+6f87ed7775257b1d0cc5c0f4b8fee75f *R/contour.R
+8fa06966919b258c57e53c97dac69a5c *R/initBDRIBS.R
+d57b4291ba586d4b3e002cd499fd9a5f *R/sensitivity.R
+37e664b4d4ab9cd77804401b6ed99d29 *man/bdribs.Rd
+f10c6138f7b4fd593b20440cae397144 *man/bdribs.contour.Rd
+e2dcd2994bbaee936a9286d4a2dfd819 *man/bdribs.sensitivity.Rd
